@@ -1,0 +1,12 @@
+import os
+
+os.system('pip3 install requests')
+os.system(' pip3 install python3-pip')
+os.system(' pip3 install pyserial')
+os.system('pip3 install pycryptodome')
+os.system('pip3 install rsa')
+os.system('pip3 install jsonpickle')
+os.system('pip3 install pytz')
+
+
+0103284293f98840e82bab410d75734137f9a0c1c7000000000000000000000000000000000000000000005b93
